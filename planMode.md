@@ -90,7 +90,7 @@ Start with a summary and then use these sections:
    etc), performance;
 - Suggestions of what risks may be accepted, mitigated or removed.
 
-### Questions (if neccessary)
+### Questions (if necessary)
 
 1. …
 2. …
@@ -105,7 +105,6 @@ Here you can:
 
 ---
 
-## DIRETRIZES PARA PLANEJAMENTO EM JAVA
 ## GUIDELINES ON PLANNING WITH JAVA
 
 Sempre considerar:
